@@ -1,0 +1,22 @@
+{
+  "name": "tivix-alekson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^10.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksonfortes/tivix-alekson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksonfortes/tivix-alekson/issues"
+  },
+  "homepage": "https://github.com/aleksonfortes/tivix-alekson#readme"
+}
