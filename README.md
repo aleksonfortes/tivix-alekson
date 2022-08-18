@@ -8,7 +8,7 @@ I created many TODOs here regarding selectors. What I would suggest is using dat
 
 
 
-Remember: you have to run npm install do install cypress.
+Remember: you have to run npm install to install cypress.
 
 To run the tests on cypress:
 
