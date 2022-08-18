@@ -8,11 +8,13 @@ I created many TODOs here regarding selectors. What I would suggest is using dat
 
 
 
-To run the tests, please install cypress this way: 
+Remember: you have to run npm install do install cypress.
 
-npm install
+To run the tests on cypress:
+
 
 npx cypress run -> to run via console
+
 npx cypress open -> to run via cypress dashboard
 
 Requirements: node.js installed. 
